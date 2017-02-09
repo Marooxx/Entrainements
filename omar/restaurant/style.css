@@ -1,91 +1,24 @@
+.container1,{
+    display:block;
+    width: 70%;
+    padding-left: 25em;
 
-/*texte exemple plat*/
-
-
- .container{
-  text-align:right;
-  margin-right: 80em;
-  margin-top:0px;
-  margin-left: 80em;
-  width: 20em;
-  padding-right: 10em;
-  margin-left: 399px;
-  margin-top: 12px;
-  padding-top: 9px;*/
-  height: 0em;
 }
-section,.text0{
+
+.container2,.container3,/*.container4,*/.container5{
 display: block;
-width: 450px;
-}
-/*photo du plat*/
-#plat{
-  margin: 5em;
-  margin-top: 0em;
-  margin-bottom: 15em;
-  height: 20em;
-  width: 25em;
+width: 55%;
+padding-left: 25em;
 }
 
-
-/*container2 la salle*/
-.container2{
-  text-align:right;
-  width: 20em;
-
+.texte,.img1{
+    width: 50%;
+    float: left;
 }
-/*container3*/
-.container3{
-  text-align: left;
-  width: 20em;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*container4*/
 .container4{
-  text-align: left;
-  width:20em;
-  float: right;
+    padding-right: 4em;
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*container5*/
-.container5{
-  text-align: left;
-  width:20em;
-}
-
-/*image qui doivent être à droite*/
-.imgright{
-  float: left;
-}
-img{
-  margin-left: 20em;
-}
+/*.img1{
+    margin-left: 5em;
+}*/
